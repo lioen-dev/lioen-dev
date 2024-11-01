@@ -1,5 +1,4 @@
 <div align="center">
-   <img src="https://lioen.xyz/img/pfp%20rounded.png">
    <h1>
       hey! I'm lioen.
    </h1>
