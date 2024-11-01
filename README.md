@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+   <img src="https://lioen.xyz/img/pfp%20rounded.png">
+   <h1>
+      hey! I'm lioen.
+   </h1>
+I'm a open source student developer
+focusing on tools, operating systems, and game development.
+I'm the creator of Alpacka, Dart, and more.
+</div>
+<br>
 
-<!--
-**lioen-dev/lioen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+    <tr>
+        <td><a href="https://github.com/lioen-dev/dart">Dart</a> - File storage and distribution tool</td>
+        <td><a href="https://github.com/lioen-dev/pient">Pient</a> - Pip development client</td>
+    </tr>
+    <tr>
+        <td><a href="https://alpacka-five.vercel.app">Alpacka</a> - Software store website for solo devs</td>
+        <td><a href="https://lioen.xyz">lioen.xyz</a> - My website</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lioen-dev/ACM">ACM</a> - Windows account manager</td>
+        <td>...And more to come.</td>
+    </tr>
+</table>
